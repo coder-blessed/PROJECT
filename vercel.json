@@ -9,7 +9,7 @@
     "routes": [
       {
         "src": "/",
-        "dest": "AGE.HTML"
+        "dest": "Index.HTML"
       }
     ]
   }
