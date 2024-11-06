@@ -1,0 +1,32 @@
+*{
+    background-color: aqua;
+}
+
+#txt{
+    left: 8rem;
+    position: absolute;
+    top: 0;
+    color: red;
+}
+#btn{
+
+    color: red;
+    background-color: black;
+}
+#btnr{
+    background-color: black;
+    color: red;
+}
+
+#ttt{
+    left: 10rem;
+    justify-content: center;
+    position: absolute;
+    margin: 3rem;
+    top: 0;
+}
+
+
+.but{
+    margin: 6rem;
+}
